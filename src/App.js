@@ -3,7 +3,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import { Badge } from 'react-bootstrap';
+import { Badge } from 'react-bootstrap'
 
 function App() {
 
